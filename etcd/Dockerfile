@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd:v3.3.10
+FROM gcr.io/google_containers/etcd:least
 MAINTAINER laomaibulao
